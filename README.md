@@ -1,12 +1,13 @@
 # ReactNative
 Assignment 1
 
-![image](https://github.com/b2editsun/ReactNative/assets/138751676/1dc2a280-97f1-444e-b8de-3409e9be1598)
+![Welcome](https://github.com/b2editsun/ReactNative/assets/138751676/cd5fc1c9-ef4d-4981-8ecd-d777b7af75d6)
 
 Assignment 2
 
-![image](https://github.com/b2editsun/ReactNative/assets/138751676/a7126eb2-8496-4b37-9cd9-b526be97a13e)
-![image](https://github.com/b2editsun/ReactNative/assets/138751676/01c52aa2-c2c0-42a2-a692-206e5d9450d9)
+![Signup](https://github.com/b2editsun/ReactNative/assets/138751676/0ebbd80d-7ebe-495a-a344-efc9c9e54d44)
+![Login](https://github.com/b2editsun/ReactNative/assets/138751676/74b6446e-1495-40ee-b51e-809bbf60be41)
+
 
 
 
