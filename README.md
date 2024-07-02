@@ -1,4 +1,4 @@
-# ReactNative
+# ReactNative/B2cart
 Assignment 1
 
 ![Welcome](https://github.com/b2editsun/ReactNative/assets/138751676/9c5e3d1f-e897-4c36-a68b-7b7a0b7c2c36)
