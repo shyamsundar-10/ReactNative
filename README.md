@@ -1,4 +1,7 @@
-# ReactNative/B2cart
+# B2cart Mobile Application
+
+Developed an e-commerce mobile application to buy smartphones. It features toggleable grid and list view, sorting by price, product search, wishlist, cart management, and checkout.
+
 ## Welcome Page
 ![Welcome](https://github.com/b2editsun/ReactNative/assets/138751676/9c5e3d1f-e897-4c36-a68b-7b7a0b7c2c36)
 
